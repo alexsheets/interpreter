@@ -1,0 +1,16 @@
+{
+    "cSpell.words": [
+        "Cond",
+        "LPAREN",
+        "RPAREN",
+        "alist",
+        "assq",
+        "eexp",
+        "funenv",
+        "lenv",
+        "pairup",
+        "parms",
+        "texp"
+    ],
+    "python.pythonPath": "C:\\Users\\alex\\anaconda3\\envs\\py38\\python.exe"
+}
